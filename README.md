@@ -1,2 +1,2 @@
-# FCI_Pattern_Recognition
-pattern tasks and projects
+# Pattern_Recognition
+pattern tasks 
